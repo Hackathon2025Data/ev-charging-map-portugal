@@ -44,14 +44,14 @@ This Streamlit application visualizes electric vehicle charging stations in Port
 To run the application, use the following command in the terminal, inside the project folder:
 
 ```bash
-streamlit run maptool.py
+streamlit run Charging_map.py
 ```
 
 If you are using the Conda `hackathon` environment:
 
 ```bash
 conda activate hackathon
-streamlit run maptool.py
+streamlit run Charging_map.py
 ```
 
 The application will automatically open in your web browser. 
